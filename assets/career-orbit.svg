@@ -1,0 +1,28 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="careerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B0F19"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="320" fill="url(#careerBg)" rx="12"/>
+  <path d="M 80 160 Q 450 60 820 160" fill="none" stroke="#FF6B00" stroke-width="2" stroke-dasharray="8 6" opacity="0.5"/>
+  <circle cx="80" cy="160" r="8" fill="#64748B"/>
+  <text x="80" y="200" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10" fill="#94A3B8">CATWORK</text>
+  <circle cx="200" cy="140" r="8" fill="#64748B"/>
+  <text x="200" y="180" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10" fill="#94A3B8">A.A.A. UFMS</text>
+  <circle cx="320" cy="120" r="8" fill="#64748B"/>
+  <text x="320" y="160" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10" fill="#94A3B8">Boviplan</text>
+  <circle cx="440" cy="100" r="8" fill="#64748B"/>
+  <text x="440" y="140" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10" fill="#94A3B8">TocaLivros</text>
+  <circle cx="560" cy="120" r="8" fill="#64748B"/>
+  <text x="560" y="160" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="10" fill="#94A3B8">Next</text>
+  <circle cx="680" cy="140" r="8" fill="#64748B"/>
+  <text x="680" y="180" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="9" fill="#94A3B8">Deliver IT</text>
+  <circle cx="820" cy="160" r="12" fill="#FF6B00">
+    <animate attributeName="r" values="12;14;12" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="820" y="205" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="11" fill="#FF6B00" font-weight="bold">Globo</text>
+  <text x="820" y="220" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="9" fill="#F8FAFC">Cartola FC</text>
+  <text x="450" y="280" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="14" fill="#F8FAFC" letter-spacing="2">CAREER TRAJECTORY · 2017 → PRESENT</text>
+</svg>
