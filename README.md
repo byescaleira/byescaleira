@@ -73,7 +73,7 @@ I design and ship native Apple products for millions of users. My work sits at t
 
 ### Connect
 
-- **Portfolio:** [byescaleira-frontend.vercel.app](https://byescaleira-frontend.vercel.app)
+- **Portfolio:** [byescaleira.com](https://byescaleira.com)
 - **LinkedIn:** [linkedin.com/in/rafael-eescaleira](https://linkedin.com/in/rafael-eescaleira)
 - **X/Twitter:** [x.com/byescaleira](https://x.com/byescaleira)
 - **GitHub:** [github.com/byescaleira](https://github.com/byescaleira)
